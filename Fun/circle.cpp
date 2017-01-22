@@ -1,8 +1,10 @@
 /* Calculate square of a circle */
 
 #include<iostream>  
+
 #define OK 1  
-#define pi 3.14  
+#define pi 3.14 
+ 
 using namespace std;  
   
 class Circle  
