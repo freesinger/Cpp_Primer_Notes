@@ -6,7 +6,7 @@ int main(void)
 {
     int a, b;
 
-    cout << "Enter 2 integers: ";
+    cout << "Enter two integers: ";
     cin >> a >> b;
 
     if (a > b) {
