@@ -20,7 +20,7 @@ int main(void)
     }
 
     cout << "Integers between "
-         << small << " and " << big <<": ";
+         << small << " and " << big << ": ";
     while (small < big - 1)
         cout << ++small << " ";
     cout << endl;
